@@ -16,7 +16,7 @@ tba
 
 ## WEB APP MANIFEST
 
-Aby wygenerować plik **manifestu** oraz zbiór ikon, możemy wykorzystać [generator](https://app-manifest.firebaseapp.com).
+Aby wygenerować plik **manifestu** oraz zbiór ikon, możemy wykorzystać [tę stronę](https://app-manifest.firebaseapp.com).
 
 ## JAK SKORZYSTAĆ
 
