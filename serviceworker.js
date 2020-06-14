@@ -19,6 +19,7 @@ const RUNTIME = 'runtime';
 
 // A list of local resources we always want to be cached. IE. 'index.html', 'css/main.css'
 const PRECACHE_URLS = [
+    './',
     './index.html',
     './css/style.css',
     './css/normalize.css',
