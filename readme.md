@@ -14,9 +14,9 @@ Dodatkowo został dodany plik **normalize.css** oraz wstępnie przygotowane styl
 
 tba
 
-## MANIFEST
+## WEB APP MANIFEST
 
-W celu wygenerowania manifestu dla naszej aplikacji (https://app-manifest.firebaseapp.com)[wchodzimy w ten link].
+Aby wygenerować plik **manifestu** oraz zbiór ikon, możemy wykorzystać [generator](https://app-manifest.firebaseapp.com).
 
 ## JAK SKORZYSTAĆ
 
