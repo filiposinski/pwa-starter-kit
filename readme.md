@@ -12,7 +12,7 @@ Dodatkowo został dodany plik **normalize.css** oraz wstępnie przygotowane styl
 
 ## SERVICE WORKER
 
-Na potrzeby tego startera został wykorzystany **Service Worker** przygotowany przez *Google*.
+tba
 
 ## MANIFEST
 
